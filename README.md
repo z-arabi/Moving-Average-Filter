@@ -1,6 +1,6 @@
-#Moving-Average-Filter
+# Moving-Average-Filter
 
-##Introduction
+## Introduction
 We want to implement a module that implements the Moving Average filter on the signal. The input and output ports of the module are listed below:
 * Input ports of the module:
   * start: 1 bit 
@@ -13,6 +13,6 @@ We want to implement a module that implements the Moving Average filter on the s
   * min_val: 16 bit
   * Out_Signal: 16 bit
 
-##Language
+## Language
 VHDL
 
